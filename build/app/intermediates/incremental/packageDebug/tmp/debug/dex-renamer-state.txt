@@ -1,0 +1,4 @@
+#Wed Mar 06 22:18:29 EST 2019
+base.0=/home/daveat/Documents/flutter-project/login_bloc/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
